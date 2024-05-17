@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 17.05.2024
+## Register Number: 212221220002
+## Name: Aishwarya T M
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
@@ -22,7 +22,15 @@ Users can view the journey of their e-waste and its environmental impact.
 ![alt text](<WhatsApp Image 2024-05-17 at 8.10.11 AM.jpeg>)
 
 ## Technology Stack
+Blockchain
+Smart Contract
+API
+IT Security Framework
+Data Storage
 
 
 ## Dependencies
+Programming languages: Solidity (for writing smart contracts on Ethereum), Java (for Hyperledger Fabric)
+Frameworks: React, Angular (for developing the DApp)
+Libraries: Web3.js (for interacting with Ethereum from a web application)
 
