@@ -23,14 +23,20 @@ Users can view the journey of their e-waste and its environmental impact.
 
 ## Technology Stack
 Blockchain
+
 Smart Contract
+
 API
+
 IT Security Framework
+
 Data Storage
 
 
 ## Dependencies
 Programming languages: Solidity (for writing smart contracts on Ethereum), Java (for Hyperledger Fabric)
+
 Frameworks: React, Angular (for developing the DApp)
+
 Libraries: Web3.js (for interacting with Ethereum from a web application)
 
